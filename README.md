@@ -1,7 +1,7 @@
 <div id="readme-top" align="center"><h2>Leitner Card</h2></div>
 
 <div align="center">
-  <h2>Technologies & Tools</h2>
+  <h3>Technologies & Tools</h3>
 </div>
 
 <div align="center">
