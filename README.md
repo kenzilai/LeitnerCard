@@ -1,7 +1,4 @@
-<div id="readme-top" align="center">
-  <h2>Leitner Card</h2>
-  <p>A flashcard application implements Leitner system to help users memorize everything!</p>
-</div>
+<div id="readme-top" align="center"><h2>Leitner Card</h2></div>
 
 <div align="center">
   <h2>Technologies & Tools</h2>
